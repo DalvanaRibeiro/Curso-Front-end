@@ -1,6 +1,6 @@
 # Curso de Front-End - 3000 Talentos 🚀
 
-![Banner do Curso](link-para-sua-imagem.jpg)
+
 
 ## Descrição 📝
 
