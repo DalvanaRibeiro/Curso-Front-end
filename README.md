@@ -42,7 +42,7 @@ Este repositório está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Este curso é uma iniciativa do **3000 Talentos** 🌟 e visa proporcionar uma base sólida em lógica de programação com JavaScript. Aproveite o aprendizado e boa sorte! 🚀
+Este curso é uma iniciativa do **3000 Talentos** 🌟 e visa proporcionar uma base em tecnologias em Front end. Aproveite o aprendizado e boa sorte! 🚀
 
 Atenciosamente,  
 Professora Dalvana 💚✨
